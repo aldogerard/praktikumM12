@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "praktikumM12",
+    "slug": "praktikumM12",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
